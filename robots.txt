@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /404/
+Sitemap: https://crazysatta.github.io/sattamatka.github.com/sitemap.xml
